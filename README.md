@@ -86,7 +86,7 @@ this class for back end php, you can use this class for function in sistem, and 
 	}
 ```
 
- Use for delete data
+ Use for delete data 
 ```php
  public function name_function( $param )
  {
